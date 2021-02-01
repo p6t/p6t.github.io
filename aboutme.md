@@ -4,7 +4,7 @@ title: About me
 subtitle: Whomst?
 ---
 
-Hi! My name's Peter Tilton. I'm an undergraduate student at Rutgers University Honors College with a dual major in Cognitive Science and Computer Science. Big fan of complex systems and thoughtful people. I also run a bunch and make all the art on this page. Wanna see my resume? No? Too bad, here it is.
+Hi! My name's Peter Tilton. I'm an undergraduate student at Rutgers University Honors College with a dual major in Cognitive Science and Computer Science. Big fan of complex systems and thoughtful people. I also run a bunch and make all the art on this site. Wanna see my resume? No? Too bad, here it is.
 
 ## Education
 
