@@ -2,12 +2,11 @@
 layout: post
 title: First Post
 subtitle: Hola chicos
-gh-repo: p6t/p6t.github.io
-gh-badge: [star, fork, follow]
+image: /assets/img/imperfect.jpg
 tags: [test]
 comments: true
 ---
 
-![Imperfect](https://i.imgur.com/7l4JgL0.jpg) {: .mx-auto.d-block :}
+![Imperfect](https://i.imgur.com/7l4JgL0.jpg)
 
 We out here.
