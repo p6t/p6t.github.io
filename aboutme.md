@@ -8,9 +8,8 @@ Hi! My name's Peter Tilton. I'm an undergraduate student at Rutgers University H
 
 ## Education
 
-Rutgers University, New Brunswick, NJ (Dual Major in Cognitive Science, Computer Science, graduation May 2022)
+Rutgers University Honors College, New Brunswick, NJ (Dual Major in Cognitive Science, Computer Science, graduation May 2022)
 
-- School of Arts and Sciences Honors Program
 - Rutgers Scholarship and Rutgers Trustee Scholarship recipient
 - GPA: 3.95/4.0
 - Relevant Coursework: Brain-Inspired Computing, Intro to Artificial Intelligence, Advanced Topics in Cognitive Science, Data Structures, Algorithms, Multivariate Calculus, Probability Theory
