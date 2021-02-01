@@ -2,7 +2,7 @@
 layout: post
 title: First Post
 subtitle: Hola chicos
-thumbnail_img: /assets/img/imperfect.jpg
+cover-img: /assets/img/imperfect.jpg
 tags: [test]
 comments: true
 ---
