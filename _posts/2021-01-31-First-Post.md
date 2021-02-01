@@ -7,4 +7,4 @@ tags: [test]
 comments: true
 ---
 
-If you came here when this is the only post, I'm sorry to disappoint.
+If you came here while this was the only post, I'm sorry to disappoint.
