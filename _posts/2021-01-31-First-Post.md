@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: We out here
 subtitle: Hola chicos
 cover-img: /assets/img/imperfect.jpg
 tags: [test]
