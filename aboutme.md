@@ -6,9 +6,9 @@ subtitle: Whomst?
 
 Hi! My name's Peter Tilton. I'm an undergraduate student at Rutgers University Honors College with a dual major in Cognitive Science and Computer Science. Wanna see my resume? No? Too bad, here it is.
 
-## Eductation
+## Education
 
-Rutgers University, New Brunswick, NJ (Dual Major in Cognitive Science, Computer Science, May 2022)
+Rutgers University, New Brunswick, NJ (Dual Major in Cognitive Science, Computer Science, graduation May 2022)
 
 - School of Arts and Sciences Honors Program
 - Rutgers Scholarship and Rutgers Trustee Scholarship recipient
