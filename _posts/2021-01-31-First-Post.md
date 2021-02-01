@@ -8,5 +8,3 @@ comments: true
 ---
 
 We out here.
-
-![Imperfect](https://i.imgur.com/7l4JgL0.jpg)
