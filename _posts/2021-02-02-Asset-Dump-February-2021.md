@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Asset Dump
-subtitle: February 2021
+title: Asset dump
+subtitle: The first
 cover-img: /assets/img/end.png
 tags: [art]
 comments: true
