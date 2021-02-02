@@ -8,17 +8,15 @@ comments: true
 ---
 If I'm going to upload a bunch of stuff for potential cover images, I want to have it in one place for reference. This is the place (this time).
 
-![bang](/assets/img/bang.png)
+![end](/assets/img/end.png)
 
-![BGT_Avater](/assets/img/BGT_Avatar.png)
+![imperfect](/assets/img/imperfect.jpg)
+
+![bang](/assets/img/bang.png)
 
 ![broken_promise](/assets/img/broken_promise.png)
 
-![closing_time](/assets/img/closing_time.png)
-
 ![dive](/assets/img/dive.png)
-
-![end](/assets/img/end.png)
 
 ![gasket](/assets/img/gasket.png)
 
@@ -29,8 +27,6 @@ If I'm going to upload a bunch of stuff for potential cover images, I want to ha
 ![hex3](/assets/img/hex3.png)
 
 ![longo](/assets/img/longo.png)
-
-![meniscethe](/assets/img/meniscethe.png)
 
 ![sanded](/assets/img/sanded.png)
 
