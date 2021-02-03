@@ -29,7 +29,7 @@ CLEF Lab, Piscataway, NJ (Research Assistant May 2019 - May 2020)
 
 Barr Lab, Piscataway, NJ (Research Assistant June 2017 - August 2018)
 
-- Developed Python script to interface with microscopy software and automate analysis of C. elegans images for submicron-sized extracellular vesicles tagged with fluorescent markers, allowing for vastly improved efficiency in data collection.
+- Developed Python script to interface with microscopy software and automate analysis of C. elegans images for submicron-sized extracellular vesicles tagged with fluorescent markers, allowing for vastly improved efficiency in data collection
 
 ## Activities
 
@@ -39,7 +39,7 @@ Rutgers University Track and Field (Varsity Student-Athlete June 2019 - Septembe
 
 Rutgers University Cognitive Science Club (Member September 2018 - Present, Mentor September 2019 - Present)
 
-- Worked with two undergraduates, providing guidance on academic efforts and identifying opportunities for a starting point in undergraduate research.
+- Worked with two undergraduates, providing guidance on academic efforts and identifying opportunities for a starting point in undergraduate research
 
 ## Skills
 
