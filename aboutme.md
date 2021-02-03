@@ -16,7 +16,7 @@ Rutgers University Honors College, New Brunswick, NJ (Dual Major in Cognitive Sc
 
 ## Experience
 
-Shah Lab, Piscataway, NJ (Research Assistant July 2021 - Present)
+Shah Lab, Piscataway, NJ (Research Assistant July 2020 - Present)
 
 - Developed R scripts for ribosomal RNA sequencing data visualization using Shiny
 - Collaborated with researchers in The University of Edinburgh and University of California, Berkeley
